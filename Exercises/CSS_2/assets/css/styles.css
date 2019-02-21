@@ -1,3 +1,15 @@
+*{
+    fone-family:"Helvetica Neue", Arial, sans-serif
+}
+
+.btn-pod{
+    font-size: 13px;
+}
+
+#subitle{
+    font-weight: 200;
+    letter-spacing: 2px;
+}
 h3 {
     color: #1B75BB;    
 }
